@@ -1,0 +1,17 @@
+#This file is for adding all info about basic git commands:
+
+#Install git by :
+sudo dnf install git-all 
+
+#To check current git version :
+git --version 
+
+#After insatlling git then we need to initiate the folder to send to git 
+to do that we need to go to that folder and type  the commad:
+
+git init 
+
+#To add the file ( before adding the file make sure you added neede repo ) : 
+git add < file name >
+
+
